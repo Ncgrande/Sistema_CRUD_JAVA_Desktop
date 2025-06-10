@@ -27,7 +27,7 @@
 ## 📋 Estrutura do Projeto
 
 O projeto está organizado na seguinte estrutura:
-
+```
 projeto-crud-java/
 ├── crud-db.sql                         # Script SQL para criação do banco de dados
 ├── lib/
@@ -42,7 +42,7 @@ projeto-crud-java/
 │ │ └── Conexao.java                    # Classe utilitária de conexão com o banco
 │ └── view/
 │ └── ClienteForm.java                  # Interface gráfica (formulário)
-
+```
 
 ---
 
