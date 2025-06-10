@@ -121,6 +121,5 @@ Estudantes do 3º semestre de Análise e Desenvolvimento de Sistemas:
 - Helen Tais
 - Marcela Becher
 
-"""
 
 
