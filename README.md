@@ -113,13 +113,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 👽 Feito por
 
-Estudantes do 3º semestre de Análise e Desenvolvimento de Sistemas:
+Estudante do 3º semestre de Análise e Desenvolvimento de Sistemas:
 
 - Nilson Grande
-- Vinicius Silva
-- Vinicius Oliveira
-- Helen Tais
-- Marcela Becher
-
-
-
